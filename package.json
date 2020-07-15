@@ -49,7 +49,7 @@
     "node-tvdb": "1.3.1",
     "node-webkit-fdialogs": "latest",
     "nodecast-js": "git+https://github.com/gyzerok/nodecast-js",
-    "nw": "^0.12.3",
+    "nw": "^0.46.2",
     "opensubtitles-api": "1.x.x",
     "os-name": "1.x.x",
     "peerflix": "git+https://github.com/mafintosh/peerflix.git",
