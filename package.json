@@ -37,7 +37,7 @@
     "i18n": "0.5.0",
     "iconv-lite": "0.x.x",
     "jschardet": "1.1.1",
-    "json-rpc2": "0.x.x",
+    "json-rpc2": "2.0.0",
     "kat-api": "0.x.x",
     "markdown": "0.5.x",
     "memoizee": "0.x.x",
@@ -67,7 +67,7 @@
     "torrent-tracker-health": "0.x.x",
     "underscore": "1.x.x",
     "upnp-mediarenderer-client": "1.x.x",
-    "xmlbuilder": "2.x.x"
+    "xmlbuilder": "4.2.1"
   },
   "devDependencies": {
     "bower": "1.4.1",
