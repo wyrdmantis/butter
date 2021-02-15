@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "URIjs": "1.x.x",
-    "adm-zip": "0.4.7",
+    "adm-zip": "0.5.2",
     "airplay-js": "git+https://github.com/guerrerocarlos/node-airplay-js.git",
     "async": "0.9.0",
     "chromecast-js": "git+https://github.com/guerrerocarlos/chromecast-js.git",
